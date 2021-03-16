@@ -1,0 +1,12 @@
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\bin\Debug\net5.0\PagamentoContext.Shared.deps.json
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\bin\Debug\net5.0\PagamentoContext.Shared.dll
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\bin\Debug\net5.0\ref\PagamentoContext.Shared.dll
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\bin\Debug\net5.0\PagamentoContext.Shared.pdb
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.csprojAssemblyReference.cache
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.AssemblyInfoInputs.cache
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.AssemblyInfo.cs
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.csproj.CoreCompileInputs.cache
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.dll
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\ref\PagamentoContext.Shared.dll
+C:\Users\albertolacerda\Documents\dev\Curso_Balta.io\Aula_Domios_Ricos\ProjetoDeEstudoDominioRico\EsudoContext\PagamentoContext.Shared\obj\Debug\net5.0\PagamentoContext.Shared.pdb
